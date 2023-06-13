@@ -1,6 +1,7 @@
 #palindrome program
 # Working Code
 # Written in java
+# Lets get started
 class PalindromeExample{
  public static void main(String args[]){  
   int r,sum=0,temp;    
